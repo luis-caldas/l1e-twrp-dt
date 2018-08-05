@@ -1,0 +1,6 @@
+#
+# # my system prop
+#
+
+# this will only work with the modded core makefile
+ro.adb.secure=0
